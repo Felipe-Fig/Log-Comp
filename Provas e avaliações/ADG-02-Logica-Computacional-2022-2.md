@@ -44,7 +44,7 @@ Considerando o contexto apresentado, é correto o que se afirma em:
 
 4) Os diagramas de Venn podem ser utilizados para ilustrar as operações binárias de conjuntos. Considere as figuras a seguir.
 
-![figura 1]()
+![figura 1](https://github.com/Felipe-Fig/Log-Comp/blob/5f01ec7d2ba6ac56dd01854f2a666829da6a47fe/Provas%20e%20avalia%C3%A7%C3%B5es/figura1%20adg02.png)
 
 Assinale a alternativa que representa as regiões sombreadas das figuras (a) e (b), respectivamente.
 
