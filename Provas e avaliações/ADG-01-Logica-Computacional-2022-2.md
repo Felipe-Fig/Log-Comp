@@ -1,6 +1,6 @@
-#Lógica Computacional
-##ADG 01
-###Engenharia de Software
+# Lógica Computacional
+## ADG 01
+### Engenharia de Software
 
 ---
 
@@ -34,7 +34,7 @@ Analise a tabela 1 e assinale a alternativa que contém a associação correta e
 
 3) A lógica utiliza argumentos para que seja possível desenvolver um raciocínio. Seguindo algumas regras e um raciocínio correto, a probabilidade de se alcançar conclusões verdadeiras é muito grande. Nesse sentido, observe a figura 1, a seguir:
 
-![figura 1](https://github.com/Felipe-Fig/Logica-Computacional/blob/5dff1ebee99fded00a03b70207376769e54b9a8b/Provas-Avalia%C3%A7%C3%B5es/fig%201%20adg01.png)
+![figura 1](https://github.com/Felipe-Fig/Log-Comp/blob/61ff81e4ba787fbbc6395eb9b465860db82f4f39/Provas%20e%20avalia%C3%A7%C3%B5es/fig%201%20adg01.png)
 
 Analisando a figura 1, assinale a alternativa que apresenta a afirmação correta:
 
