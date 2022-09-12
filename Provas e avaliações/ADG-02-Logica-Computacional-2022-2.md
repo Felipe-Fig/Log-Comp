@@ -38,6 +38,14 @@ III. Escrevendo uma propriedade que caracterize os elementos que constituem o co
 
 Considerando o contexto apresentado, é correto o que se afirma em:
 
-**Gabarito: **
+**Gabarito: I e III, apenas.**
 
 ---
+
+4) Os diagramas de Venn podem ser utilizados para ilustrar as operações binárias de conjuntos. Considere as figuras a seguir.
+
+![figura 1]()
+
+Assinale a alternativa que representa as regiões sombreadas das figuras (a) e (b), respectivamente.
+
+**Gabarito: A UNIÃO B e A INTERSEÇÃO B**
